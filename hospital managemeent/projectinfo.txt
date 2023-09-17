@@ -1,0 +1,7 @@
+-->This Hospital Management System Projects....
+-->It Project Developing Using a Python GUI and MySql Databased..
+-->This project is Provide a Two Folder :
+	1.SourceCode: 
+	-->This Folder is a Provides a main.py file it is a main python files.
+	2.Databased:
+	-->This Folder is a provides a hospital.sql it is a database files.
